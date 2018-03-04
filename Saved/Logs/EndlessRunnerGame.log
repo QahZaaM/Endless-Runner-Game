@@ -3944,3 +3944,763 @@ LogInit: Object subsystem initialized
 [2018.03.04-03.22.35:858][411]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Maps/StartScreen_Auto3.umap
 [2018.03.04-03.22.35:859][411]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/StartScreen' took 0.188
 [2018.03.04-03.22.35:859][411]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.188
+[2018.03.04-04.28.42:370][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Maaz_\Downloads\aj.fbx)
+[2018.03.04-04.28.42:505][339]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.03.04-04.28.42:505][339]LogFbx: ItemName: Model, ItemCount : 78
+[2018.03.04-04.28.42:506][339]LogFbx: ItemName: NodeAttribute, ItemCount : 74
+[2018.03.04-04.28.42:506][339]LogFbx: ItemName: Geometry, ItemCount : 4
+[2018.03.04-04.28.42:506][339]LogFbx: ItemName: Texture, ItemCount : 6
+[2018.03.04-04.28.42:506][339]LogFbx: ItemName: Video, ItemCount : 6
+[2018.03.04-04.28.42:506][339]LogFbx: ItemName: Pose, ItemCount : 4
+[2018.03.04-04.28.42:506][339]LogFbx: ItemName: Deformer, ItemCount : 296
+[2018.03.04-04.28.42:506][339]LogFbx: ItemName: AnimationStack, ItemCount : 2
+[2018.03.04-04.28.42:506][339]LogFbx: ItemName: AnimationLayer, ItemCount : 2
+[2018.03.04-04.28.42:506][339]LogFbx: ItemName: Material, ItemCount : 4
+[2018.03.04-04.28.42:506][339]LogFbx: ItemName: AnimationCurveNode, ItemCount : 76
+[2018.03.04-04.28.42:506][339]LogFbx: ItemName: AnimationCurve, ItemCount : 363
+[2018.03.04-04.28.42:516][339]LogFbx: Loading FBX Scene from C:\Users\Maaz_\Downloads\aj.fbx
+[2018.03.04-04.28.42:601][339]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.04-04.28.54:046][339]LogFbx: Loading FBX Scene from C:\Users\Maaz_\Downloads\aj.fbx
+[2018.03.04-04.28.54:133][339]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.04-04.28.54:155][339]LogFbx: =================================================
+[2018.03.04-04.28.54:155][339]LogFbx: Dumping Node START [Boy01_Body_Geo] 
+[2018.03.04-04.28.54:155][339]LogFbx: 	Total Deformer Count 995963536.
+[2018.03.04-04.28.54:155][339]LogFbx: 		[Node 1] Skin Boy01_Body_Geo (Type Skin).
+[2018.03.04-04.28.54:155][339]LogFbx: =================================================
+[2018.03.04-04.28.54:155][339]LogFbx: 	Attribute (Boy01_Body_Geo) Type (4).
+[2018.03.04-04.28.54:155][339]LogFbx: 		[Node Attribute Child 1] Boy01_Body_Geo (Type Mesh).
+[2018.03.04-04.28.54:155][339]LogFbx: Dumping Node END [Boy01_Body_Geo]
+[2018.03.04-04.28.54:155][339]LogFbx: =================================================
+[2018.03.04-04.28.54:155][339]LogFbx: Dumping Node START [h_Geo] 
+[2018.03.04-04.28.54:155][339]LogFbx: 	Total Deformer Count 997481424.
+[2018.03.04-04.28.54:155][339]LogFbx: 		[Node 1] Skin h_Geo (Type Skin).
+[2018.03.04-04.28.54:155][339]LogFbx: =================================================
+[2018.03.04-04.28.54:155][339]LogFbx: 	Attribute (h_Geo) Type (4).
+[2018.03.04-04.28.54:155][339]LogFbx: 		[Node Attribute Child 1] h_Geo (Type Mesh).
+[2018.03.04-04.28.54:155][339]LogFbx: Dumping Node END [h_Geo]
+[2018.03.04-04.28.54:155][339]LogFbx: =================================================
+[2018.03.04-04.28.54:155][339]LogFbx: Dumping Node START [Boy01_Eyes_Geo] 
+[2018.03.04-04.28.54:155][339]LogFbx: 	Total Deformer Count 995962336.
+[2018.03.04-04.28.54:156][339]LogFbx: 		[Node 1] Skin Boy01_Eyes_Geo (Type Skin).
+[2018.03.04-04.28.54:156][339]LogFbx: =================================================
+[2018.03.04-04.28.54:156][339]LogFbx: 	Attribute (Boy01_Eyes_Geo) Type (4).
+[2018.03.04-04.28.54:156][339]LogFbx: 		[Node Attribute Child 1] Boy01_Eyes_Geo (Type Mesh).
+[2018.03.04-04.28.54:156][339]LogFbx: Dumping Node END [Boy01_Eyes_Geo]
+[2018.03.04-04.28.54:156][339]LogFbx: =================================================
+[2018.03.04-04.28.54:156][339]LogFbx: Dumping Node START [Boy01_Brows_Geo] 
+[2018.03.04-04.28.54:156][339]LogFbx: 	Total Deformer Count 995962336.
+[2018.03.04-04.28.54:156][339]LogFbx: 		[Node 1] Skin Boy01_Brows_Geo (Type Skin).
+[2018.03.04-04.28.54:156][339]LogFbx: =================================================
+[2018.03.04-04.28.54:156][339]LogFbx: 	Attribute (Boy01_Brows_Geo) Type (4).
+[2018.03.04-04.28.54:156][339]LogFbx: 		[Node Attribute Child 1] Boy01_Brows_Geo (Type Mesh).
+[2018.03.04-04.28.54:156][339]LogFbx: Dumping Node END [Boy01_Brows_Geo]
+[2018.03.04-04.28.54:157][339]LogFbx: =================================================
+[2018.03.04-04.28.54:157][339]LogFbx: Dumping Node START [Boy01_Body_Geo] 
+[2018.03.04-04.28.54:157][339]LogFbx: 	Total Deformer Count 995962336.
+[2018.03.04-04.28.54:157][339]LogFbx: 		[Node 1] Skin Boy01_Body_Geo (Type Skin).
+[2018.03.04-04.28.54:157][339]LogFbx: =================================================
+[2018.03.04-04.28.54:157][339]LogFbx: 	Attribute (Boy01_Body_Geo) Type (4).
+[2018.03.04-04.28.54:158][339]LogFbx: 		[Node Attribute Child 1] Boy01_Body_Geo (Type Mesh).
+[2018.03.04-04.28.54:158][339]LogFbx: Dumping Node END [Boy01_Body_Geo]
+[2018.03.04-04.28.54:158][339]LogFbx: =================================================
+[2018.03.04-04.28.54:158][339]LogFbx: Dumping Node START [h_Geo] 
+[2018.03.04-04.28.54:158][339]LogFbx: 	Total Deformer Count 997481424.
+[2018.03.04-04.28.54:158][339]LogFbx: 		[Node 1] Skin h_Geo (Type Skin).
+[2018.03.04-04.28.54:158][339]LogFbx: =================================================
+[2018.03.04-04.28.54:158][339]LogFbx: 	Attribute (h_Geo) Type (4).
+[2018.03.04-04.28.54:158][339]LogFbx: 		[Node Attribute Child 1] h_Geo (Type Mesh).
+[2018.03.04-04.28.54:158][339]LogFbx: Dumping Node END [h_Geo]
+[2018.03.04-04.28.54:158][339]LogFbx: =================================================
+[2018.03.04-04.28.54:158][339]LogFbx: Dumping Node START [Boy01_Eyes_Geo] 
+[2018.03.04-04.28.54:158][339]LogFbx: 	Total Deformer Count 995964416.
+[2018.03.04-04.28.54:158][339]LogFbx: 		[Node 1] Skin Boy01_Eyes_Geo (Type Skin).
+[2018.03.04-04.28.54:158][339]LogFbx: =================================================
+[2018.03.04-04.28.54:158][339]LogFbx: 	Attribute (Boy01_Eyes_Geo) Type (4).
+[2018.03.04-04.28.54:158][339]LogFbx: 		[Node Attribute Child 1] Boy01_Eyes_Geo (Type Mesh).
+[2018.03.04-04.28.54:158][339]LogFbx: Dumping Node END [Boy01_Eyes_Geo]
+[2018.03.04-04.28.54:158][339]LogFbx: =================================================
+[2018.03.04-04.28.54:158][339]LogFbx: Dumping Node START [Boy01_Brows_Geo] 
+[2018.03.04-04.28.54:158][339]LogFbx: 	Total Deformer Count 995964416.
+[2018.03.04-04.28.54:158][339]LogFbx: 		[Node 1] Skin Boy01_Brows_Geo (Type Skin).
+[2018.03.04-04.28.54:158][339]LogFbx: =================================================
+[2018.03.04-04.28.54:158][339]LogFbx: 	Attribute (Boy01_Brows_Geo) Type (4).
+[2018.03.04-04.28.54:158][339]LogFbx: 		[Node Attribute Child 1] Boy01_Brows_Geo (Type Mesh).
+[2018.03.04-04.28.54:158][339]LogFbx: Dumping Node END [Boy01_Brows_Geo]
+[2018.03.04-04.28.54:160][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Boy01_Body_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:161][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node h_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:162][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Boy01_Eyes_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:163][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Boy01_Brows_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:164][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Boy01_Body_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:165][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node h_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:166][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Boy01_Eyes_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:167][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Boy01_Brows_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:168][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Boy01_Body_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:169][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node h_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:170][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Boy01_Eyes_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:171][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Boy01_Brows_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:172][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Boy01_Body_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:173][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node h_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:174][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Boy01_Eyes_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:175][339]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Boy01_Brows_Geo : The relative matrices do not match
+[2018.03.04-04.28.54:175][339]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2018.03.04-04.28.54:179][339]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Boy01_Body_Geo
+[2018.03.04-04.28.54:179][339]LogFbx: Warning: Recreating bind pose succeeded.
+[2018.03.04-04.28.54:186][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_Body_MAT'
+[2018.03.04-04.28.54:186][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_Body_MAT'
+[2018.03.04-04.28.54:192][339]LogMaterial: Warning: Material /Game/ThirdPersonBP/Blueprints/Boy01_Body_MAT.Boy01_Body_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2018.03.04-04.28.54:200][339]LogMaterial: Missing cached shader map for material Boy01_Body_MAT, compiling. 
+[2018.03.04-04.28.54:316][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_diffuse'
+[2018.03.04-04.28.54:316][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_diffuse'
+[2018.03.04-04.28.54:509][339]LogTexture: Display: Building textures: Boy01_diffuse (AutoDXT, 2048X2048)
+[2018.03.04-04.28.55:363][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_spec'
+[2018.03.04-04.28.55:364][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_spec'
+[2018.03.04-04.28.55:484][339]LogTexture: Display: Building textures: Boy01_spec (AutoDXT, 2048X2048)
+[2018.03.04-04.28.56:132][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_normal'
+[2018.03.04-04.28.56:133][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_normal'
+[2018.03.04-04.28.56:369][339]LogTexture: Display: Building textures: Boy01_normal (BC5, 2048X2048)
+[2018.03.04-04.28.56:864][339]LogMaterial: Missing cached shader map for material Boy01_Body_MAT, compiling. 
+[2018.03.04-04.28.56:972][339]LogFbx: Triangulating skeletal mesh Boy01_Body_Geo
+[2018.03.04-04.28.57:324][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_Mouth_MAT1'
+[2018.03.04-04.28.57:324][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_Mouth_MAT1'
+[2018.03.04-04.28.57:326][339]LogMaterial: Warning: Material /Game/ThirdPersonBP/Blueprints/Boy01_Mouth_MAT1.Boy01_Mouth_MAT1 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.03.04-04.28.57:329][339]LogMaterial: Missing cached shader map for material Boy01_Mouth_MAT1, compiling. 
+[2018.03.04-04.28.57:437][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_FacialAnimMap'
+[2018.03.04-04.28.57:437][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_FacialAnimMap'
+[2018.03.04-04.28.59:486][339]LogTexture: Display: Building textures: Boy01_FacialAnimMap (AutoDXT, 4096X4096)
+[2018.03.04-04.29.07:126][339]LogTexture: Display: Building textures: Boy01_FacialAnimMap (AutoDXT, 4096X4096)
+[2018.03.04-04.29.12:404][339]LogMaterial: Missing cached shader map for material Boy01_Mouth_MAT1, compiling. 
+[2018.03.04-04.29.12:576][339]LogFbx: Triangulating skeletal mesh h_Geo
+[2018.03.04-04.29.12:582][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_Eyes_MAT1'
+[2018.03.04-04.29.12:582][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_Eyes_MAT1'
+[2018.03.04-04.29.12:584][339]LogMaterial: Warning: Material /Game/ThirdPersonBP/Blueprints/Boy01_Eyes_MAT1.Boy01_Eyes_MAT1 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.03.04-04.29.12:587][339]LogMaterial: Missing cached shader map for material Boy01_Eyes_MAT1, compiling. 
+[2018.03.04-04.29.15:188][339]LogTexture: Display: Building textures: Boy01_FacialAnimMap (AutoDXT, 4096X4096)
+[2018.03.04-04.29.22:366][339]LogTexture: Display: Building textures: Boy01_FacialAnimMap (AutoDXT, 4096X4096)
+[2018.03.04-04.29.25:920][339]LogMaterial: Missing cached shader map for material Boy01_Eyes_MAT1, compiling. 
+[2018.03.04-04.29.26:015][339]LogFbx: Triangulating skeletal mesh Boy01_Eyes_Geo
+[2018.03.04-04.29.26:020][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_Brows_MAT1'
+[2018.03.04-04.29.26:020][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Boy01_Brows_MAT1'
+[2018.03.04-04.29.26:021][339]LogMaterial: Warning: Material /Game/ThirdPersonBP/Blueprints/Boy01_Brows_MAT1.Boy01_Brows_MAT1 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.03.04-04.29.26:023][339]LogMaterial: Missing cached shader map for material Boy01_Brows_MAT1, compiling. 
+[2018.03.04-04.29.28:012][339]LogTexture: Display: Building textures: Boy01_FacialAnimMap (AutoDXT, 4096X4096)
+[2018.03.04-04.29.33:622][339]LogTexture: Display: Building textures: Boy01_FacialAnimMap (AutoDXT, 4096X4096)
+[2018.03.04-04.29.37:018][339]LogMaterial: Missing cached shader map for material Boy01_Brows_MAT1, compiling. 
+[2018.03.04-04.29.37:113][339]LogFbx: Triangulating skeletal mesh Boy01_Brows_Geo
+[2018.03.04-04.29.37:155][339]LogFbx: Warning: Bones digested - 74  Depth of hierarchy - 11
+[2018.03.04-04.29.37:468][339]LogSkeletalMesh: Section 0: 4931 vertices, 71 active bones
+[2018.03.04-04.29.37:468][339]LogSkeletalMesh: Section 1: 49 vertices, 1 active bones
+[2018.03.04-04.29.37:468][339]LogSkeletalMesh: Section 2: 97 vertices, 1 active bones
+[2018.03.04-04.29.37:468][339]LogSkeletalMesh: Section 3: 72 vertices, 1 active bones
+[2018.03.04-04.29.37:483][339]LogSkeletalMesh: Section 0: Material=0, 7731 triangles
+[2018.03.04-04.29.37:483][339]LogSkeletalMesh: Section 1: Material=1, 68 triangles
+[2018.03.04-04.29.37:483][339]LogSkeletalMesh: Section 2: Material=2, 152 triangles
+[2018.03.04-04.29.37:483][339]LogSkeletalMesh: Section 3: Material=3, 102 triangles
+[2018.03.04-04.29.44:990][339]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2018.03.04-04.29.44:990][339]LogAnimationCompression: Building Anim DDC data for AnimSequence /Engine/Transient.ThirdPersonIdle
+[2018.03.04-04.29.45:003][339]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.04-04.29.45:007][339]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.04-04.29.45:010][339]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2018.03.04-04.29.45:010][339]LogAnimationCompression: Building Anim DDC data for AnimSequence /Engine/Transient.ThirdPersonWalk
+[2018.03.04-04.29.45:010][339]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.04-04.29.45:012][339]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.04-04.29.45:013][339]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2018.03.04-04.29.45:014][339]LogAnimationCompression: Building Anim DDC data for AnimSequence /Engine/Transient.ThirdPersonRun
+[2018.03.04-04.29.45:014][339]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.04-04.29.45:015][339]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.04-04.29.45:017][339]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2018.03.04-04.29.45:018][339]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.04-04.29.45:019][339]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2018.03.04-04.29.45:020][339]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.04-04.29.45:022][339]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2018.03.04-04.29.45:022][339]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.04-04.29.45:024][339]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2018.03.04-04.29.45:025][339]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.04-04.29.45:027][339]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2018.03.04-04.29.45:028][339]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_RemoveLinearKeys_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.04-04.29.45:029][339]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2018.03.04-04.29.45:030][339]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_2) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.04-04.29.48:281][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/aj_PhysicsAsset'
+[2018.03.04-04.29.48:281][339]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/aj_PhysicsAsset'
+[2018.03.04-04.29.48:336][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.03.04-04.29.48:336][339]FBXImport: Warning: The following bones are missing from the bind pose:
+BoyFacialAnim_Joint  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.03.04-04.29.48:336][339]FBXImport: Warning: Warning skeletal mesh influence count of 10 exceeds max count of 8. Influence truncation will occur. Maximum Ignored Weight 0.013 
+[2018.03.04-04.29.51:527][658]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/StartScreen' took 0.043
+[2018.03.04-04.29.51:528][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_Jump] ([1] browsable assets)...
+[2018.03.04-04.29.54:680][658]LoadErrors: Error: The Skeleton  UE4_Mannequin_Skeleton is missing bones that SkeletalMesh  SK_Mannequin needs. They will be added now. Please save the Skeleton!
+[2018.03.04-04.29.54:738][658]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump]
+[2018.03.04-04.29.54:738][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_Jump]
+[2018.03.04-04.29.54:755][658]LogSavePackage: Save=11.39ms
+[2018.03.04-04.29.54:755][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/ThirdPerson_Jump_Auto4AA08B4A143708DDECDF8969D529F72C2.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_Jump_Auto4.uasset'
+[2018.03.04-04.29.54:756][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_Jump_Auto4.uasset
+[2018.03.04-04.29.54:756][658]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2018.03.04-04.29.54:756][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2018.03.04-04.29.54:760][658]LogSavePackage: Save=1.62ms
+[2018.03.04-04.29.54:760][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/UE4_Mannequin_Skeleton_Auto4A926F47544A2007E7A75D2966E9736A6.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto4.uasset'
+[2018.03.04-04.29.54:760][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto4.uasset
+[2018.03.04-04.29.54:761][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPersonJump_Loop] ([1] browsable assets)...
+[2018.03.04-04.29.54:771][658]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop]
+[2018.03.04-04.29.54:772][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPersonJump_Loop]
+[2018.03.04-04.29.54:786][658]LogSavePackage: Save=11.48ms
+[2018.03.04-04.29.54:786][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/ThirdPersonJump_Loop_Auto4ECF1B47142848B6891FD69A73646C8E9.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonJump_Loop_Auto4.uasset'
+[2018.03.04-04.29.54:786][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonJump_Loop_Auto4.uasset
+[2018.03.04-04.29.54:787][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPersonJump_Start] ([1] browsable assets)...
+[2018.03.04-04.29.54:797][658]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start]
+[2018.03.04-04.29.54:797][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPersonJump_Start]
+[2018.03.04-04.29.54:811][658]LogSavePackage: Save=11.41ms
+[2018.03.04-04.29.54:811][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/ThirdPersonJump_Start_Auto4BD09555C475C14E81546C9BEFC3B5853.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonJump_Start_Auto4.uasset'
+[2018.03.04-04.29.54:811][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonJump_Start_Auto4.uasset
+[2018.03.04-04.29.54:812][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_IdleRun_2D] ([1] browsable assets)...
+[2018.03.04-04.29.54:824][658]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D]
+[2018.03.04-04.29.54:824][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_IdleRun_2D]
+[2018.03.04-04.29.54:836][658]LogSavePackage: Save=9.69ms
+[2018.03.04-04.29.54:836][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/ThirdPerson_IdleRun_2D_Auto4C70B605C463DA49D43B92B9CB50EA4C8.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_IdleRun_2D_Auto4.uasset'
+[2018.03.04-04.29.54:837][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_IdleRun_2D_Auto4.uasset
+[2018.03.04-04.29.54:837][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPersonIdle] ([1] browsable assets)...
+[2018.03.04-04.29.54:848][658]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle]
+[2018.03.04-04.29.54:848][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPersonIdle]
+[2018.03.04-04.29.54:862][658]LogSavePackage: Save=11.27ms
+[2018.03.04-04.29.54:862][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/ThirdPersonIdle_Auto41E9FB7DB49E06B1EBA3D1584D0DF1CE2.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonIdle_Auto4.uasset'
+[2018.03.04-04.29.54:862][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonIdle_Auto4.uasset
+[2018.03.04-04.29.54:863][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPersonRun] ([1] browsable assets)...
+[2018.03.04-04.29.54:873][658]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun]
+[2018.03.04-04.29.54:874][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPersonRun]
+[2018.03.04-04.29.54:887][658]LogSavePackage: Save=11.23ms
+[2018.03.04-04.29.54:887][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/ThirdPersonRun_Auto46B34947C4C60F7C2F01848B1FAD62AF0.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonRun_Auto4.uasset'
+[2018.03.04-04.29.54:888][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonRun_Auto4.uasset
+[2018.03.04-04.29.54:888][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPersonWalk] ([1] browsable assets)...
+[2018.03.04-04.29.54:899][658]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk]
+[2018.03.04-04.29.54:899][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPersonWalk]
+[2018.03.04-04.29.54:912][658]LogSavePackage: Save=11.36ms
+[2018.03.04-04.29.54:912][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/ThirdPersonWalk_Auto4D738A6E547376A246119FB8F268F36CA.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonWalk_Auto4.uasset'
+[2018.03.04-04.29.54:913][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonWalk_Auto4.uasset
+[2018.03.04-04.29.54:913][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/aj] ([1] browsable assets)...
+[2018.03.04-04.29.54:924][658]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPersonBP/Blueprints/aj.aj]
+[2018.03.04-04.29.54:924][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/aj]
+[2018.03.04-04.29.54:975][658]LogSavePackage: Save=49.93ms
+[2018.03.04-04.29.54:975][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/aj_Auto4F5EF672341D8185F194CB1A278BE4E99.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/aj_Auto4.uasset'
+[2018.03.04-04.29.54:975][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/aj_Auto4.uasset
+[2018.03.04-04.29.54:976][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Boy01_Body_MAT] ([1] browsable assets)...
+[2018.03.04-04.29.54:986][658]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Blueprints/Boy01_Body_MAT.Boy01_Body_MAT]
+[2018.03.04-04.29.54:986][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Boy01_Body_MAT]
+[2018.03.04-04.29.55:002][658]LogSavePackage: Save=15.34ms
+[2018.03.04-04.29.55:002][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Boy01_Body_MAT_Auto4C42A3A544D7092AAE20FB28B992D63FF.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_Body_MAT_Auto4.uasset'
+[2018.03.04-04.29.55:002][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_Body_MAT_Auto4.uasset
+[2018.03.04-04.29.55:003][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Boy01_diffuse] ([1] browsable assets)...
+[2018.03.04-04.29.55:010][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/Boy01_diffuse.Boy01_diffuse]
+[2018.03.04-04.29.55:010][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Boy01_diffuse]
+[2018.03.04-04.29.55:025][658]LogSavePackage: Save=15.22ms
+[2018.03.04-04.29.55:026][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Boy01_diffuse_Auto40E8A8FEA406E109A0E3FDCA73DA7493B.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_diffuse_Auto4.uasset'
+[2018.03.04-04.29.55:026][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_diffuse_Auto4.uasset
+[2018.03.04-04.29.55:026][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Boy01_spec] ([1] browsable assets)...
+[2018.03.04-04.29.55:031][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/Boy01_spec.Boy01_spec]
+[2018.03.04-04.29.55:031][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Boy01_spec]
+[2018.03.04-04.29.55:046][658]LogSavePackage: Save=13.92ms
+[2018.03.04-04.29.55:046][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Boy01_spec_Auto49CA12CAD4E8D42B67740D4A559450EEF.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_spec_Auto4.uasset'
+[2018.03.04-04.29.55:046][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_spec_Auto4.uasset
+[2018.03.04-04.29.55:047][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Boy01_normal] ([1] browsable assets)...
+[2018.03.04-04.29.55:054][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/Boy01_normal.Boy01_normal]
+[2018.03.04-04.29.55:054][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Boy01_normal]
+[2018.03.04-04.29.55:074][658]LogSavePackage: Save=18.67ms
+[2018.03.04-04.29.55:074][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Boy01_normal_Auto4629697C7416B59FA62366C9A6BD4A9A6.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_normal_Auto4.uasset'
+[2018.03.04-04.29.55:075][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_normal_Auto4.uasset
+[2018.03.04-04.29.55:075][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Boy01_Mouth_MAT1] ([1] browsable assets)...
+[2018.03.04-04.29.55:085][658]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Blueprints/Boy01_Mouth_MAT1.Boy01_Mouth_MAT1]
+[2018.03.04-04.29.55:085][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Boy01_Mouth_MAT1]
+[2018.03.04-04.29.55:098][658]LogSavePackage: Save=12.38ms
+[2018.03.04-04.29.55:098][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Boy01_Mouth_MAT1_Auto41BEDC8A2495577F5A8BA21AA49F56C4E.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_Mouth_MAT1_Auto4.uasset'
+[2018.03.04-04.29.55:099][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_Mouth_MAT1_Auto4.uasset
+[2018.03.04-04.29.55:099][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Boy01_FacialAnimMap] ([1] browsable assets)...
+[2018.03.04-04.29.55:107][658]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/Boy01_FacialAnimMap.Boy01_FacialAnimMap]
+[2018.03.04-04.29.55:107][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Boy01_FacialAnimMap]
+[2018.03.04-04.29.55:520][658]LogSavePackage: Save=412.20ms
+[2018.03.04-04.29.55:520][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Boy01_FacialAnimMap_Auto4039089294E3D29EC3DBC4E93B551B44A.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_FacialAnimMap_Auto4.uasset'
+[2018.03.04-04.29.55:521][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_FacialAnimMap_Auto4.uasset
+[2018.03.04-04.29.55:521][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Boy01_Eyes_MAT1] ([1] browsable assets)...
+[2018.03.04-04.29.55:532][658]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Blueprints/Boy01_Eyes_MAT1.Boy01_Eyes_MAT1]
+[2018.03.04-04.29.55:532][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Boy01_Eyes_MAT1]
+[2018.03.04-04.29.55:546][658]LogSavePackage: Save=12.38ms
+[2018.03.04-04.29.55:547][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Boy01_Eyes_MAT1_Auto43B7F53AF4D95D7F28DE4C5B383CD80B7.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_Eyes_MAT1_Auto4.uasset'
+[2018.03.04-04.29.55:547][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_Eyes_MAT1_Auto4.uasset
+[2018.03.04-04.29.55:547][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Boy01_Brows_MAT1] ([1] browsable assets)...
+[2018.03.04-04.29.55:557][658]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Blueprints/Boy01_Brows_MAT1.Boy01_Brows_MAT1]
+[2018.03.04-04.29.55:557][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Boy01_Brows_MAT1]
+[2018.03.04-04.29.55:570][658]LogSavePackage: Save=12.23ms
+[2018.03.04-04.29.55:570][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Boy01_Brows_MAT1_Auto4A22BAFD34B3BC1DF05BF929F7DE19CDB.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_Brows_MAT1_Auto4.uasset'
+[2018.03.04-04.29.55:571][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Boy01_Brows_MAT1_Auto4.uasset
+[2018.03.04-04.29.55:571][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/aj_PhysicsAsset] ([1] browsable assets)...
+[2018.03.04-04.29.55:584][658]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPersonBP/Blueprints/aj_PhysicsAsset.aj_PhysicsAsset]
+[2018.03.04-04.29.55:584][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/aj_PhysicsAsset]
+[2018.03.04-04.29.55:603][658]LogSavePackage: Save=18.39ms
+[2018.03.04-04.29.55:603][658]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/aj_PhysicsAsset_Auto44C0FB8C64325C6AC5496A788A4EB57B3.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/aj_PhysicsAsset_Auto4.uasset'
+[2018.03.04-04.29.55:603][658]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/aj_PhysicsAsset_Auto4.uasset
+[2018.03.04-04.29.55:603][658]LogFileHelpers: Auto-saving content packages took 4.076
+[2018.03.04-04.30.07:693][928]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2018.03.04-04.30.44:883][563]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2018.03.04-04.30.44:915][563]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_44:PersistentLevel.RunCharacter_C_10.CollisionCylinder) Component already registered.
+[2018.03.04-04.30.44:916][563]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_44:PersistentLevel.RunCharacter_C_10.Arrow) Component already registered.
+[2018.03.04-04.30.46:227][673]LogEditorTransaction: Undo Replace component used material
+[2018.03.04-04.30.46:817][727]LogEditorTransaction: Undo Replace component used material
+[2018.03.04-04.30.47:210][761]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2018.03.04-04.30.47:214][761]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_44:PersistentLevel.RunCharacter_C_10.CollisionCylinder) Component already registered.
+[2018.03.04-04.30.47:215][761]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_44:PersistentLevel.RunCharacter_C_10.Arrow) Component already registered.
+[2018.03.04-04.31.21:575][445]BlueprintLog: New page: Compile RunCharacter
+[2018.03.04-04.31.23:178][513]LogSavePackage: Save=89.80ms
+[2018.03.04-04.31.23:178][513]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/RunCharacterFE37BDEC45BFE51AE476CF890AA9F197.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2018.03.04-04.31.23:179][513]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset
+[2018.03.04-04.31.33:278][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.04-04.31.33:293][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen:PersistentLevel.StartScreen' with GeneratedClass '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen:PersistentLevel.StartScreen'
+[2018.03.04-04.31.33:293][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.04-04.31.33:293][ 53]PIE: New page: PIE session: StartScreen (Mar 3, 2018, 6:31:33 PM)
+[2018.03.04-04.31.33:293][ 53]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_StartScreen
+[2018.03.04-04.31.33:294][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000992s)
+[2018.03.04-04.31.33:295][ 53]LogAIModule: Creating AISystem for world StartScreen
+[2018.03.04-04.31.33:295][ 53]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2018.03.04-04.31.33:295][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/StartScreen.StartScreen to /Game/ThirdPersonBP/Maps/UEDPIE_0_StartScreen.StartScreen (0.001835s)
+[2018.03.04-04.31.33:340][ 53]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.04-04.31.33:351][ 53]LogInit: FAudioDevice initialized.
+[2018.03.04-04.31.33:382][ 53]LogLoad: Game class is 'RunGameMode_C'
+[2018.03.04-04.31.33:383][ 53]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_StartScreen.StartScreen up for play (max tick rate 0) at 2018.03.03-23.31.33
+[2018.03.04-04.31.33:383][ 53]LogWorld: Bringing up level for play took: 0.000581
+[2018.03.04-04.31.33:428][ 53]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_StartScreen 0.098
+[2018.03.04-04.31.33:429][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen:PersistentLevel.StartScreen' with GeneratedClass '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen:PersistentLevel.StartScreen'
+[2018.03.04-04.31.34:820][217]LogNet: Browse: /Game/ThirdPersonBP/Maps/gameMap
+[2018.03.04-04.31.34:820][217]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/gameMap
+[2018.03.04-04.31.34:890][217]LogAIModule: Creating AISystem for world gameMap
+[2018.03.04-04.31.34:890][217]LogLoad: Game class is 'RunGameMode_C'
+[2018.03.04-04.31.34:892][217]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_gameMap.gameMap up for play (max tick rate 0) at 2018.03.03-23.31.34
+[2018.03.04-04.31.34:892][217]LogWorld: Bringing up level for play took: 0.001045
+[2018.03.04-04.31.34:911][217]LogLoad: Took 0.091026 seconds to LoadMap(/Game/ThirdPersonBP/Maps/gameMap)
+[2018.03.04-04.31.38:779][674]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen:PersistentLevel.StartScreen' with GeneratedClass '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen:PersistentLevel.StartScreen'
+[2018.03.04-04.31.38:819][674]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen:PersistentLevel.StartScreen' with GeneratedClass '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/StartScreen.StartScreen:PersistentLevel.StartScreen'
+[2018.03.04-04.32.44:058][864]LogEditorTransaction: Undo Replace component used material
+[2018.03.04-04.32.44:480][892]LogEditorTransaction: Undo Replace component used material
+[2018.03.04-04.32.44:817][923]LogEditorTransaction: Undo Replace component used material
+[2018.03.04-04.32.45:070][945]LogEditorTransaction: Undo Replace component used material
+[2018.03.04-04.32.45:309][966]LogEditorTransaction: Undo Replace component used material
+[2018.03.04-04.32.45:524][986]LogEditorTransaction: Undo Replace component used material
+[2018.03.04-04.32.45:739][  6]LogEditorTransaction: Undo Replace component used material
+[2018.03.04-04.32.45:907][ 21]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2018.03.04-04.32.55:476][815]BlueprintLog: New page: Compile RunCharacter
+[2018.03.04-04.32.55:586][815]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_45, Actor: /Engine/Transient.World_45:PersistentLevel.REINST_RunCharacter_C_10
+[2018.03.04-04.32.55:586][815]LogWorld: --- Actors Currently in /Engine/Transient.World_45:PersistentLevel ---
+[2018.03.04-04.32.55:586][815]LogWorld:   /Engine/Transient.World_45:PersistentLevel.WorldSettings
+[2018.03.04-04.32.55:586][815]LogWorld:   /Engine/Transient.World_45:PersistentLevel.Brush_45
+[2018.03.04-04.32.55:586][815]LogWorld:   /Engine/Transient.World_45:PersistentLevel.DefaultPhysicsVolume_45
+[2018.03.04-04.32.55:586][815]LogWorld:   /Engine/Transient.World_45:PersistentLevel.ParticleEventManager_45
+[2018.03.04-04.32.55:586][815]LogWorld:   NONE
+[2018.03.04-04.32.55:586][815]LogWorld:   /Engine/Transient.World_45:PersistentLevel.RunCharacter_C_14
+[2018.03.04-04.32.56:082][815]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.496 s
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: 
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\World.cpp] [Line: 1544]
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: Could not remove actor /Engine/Transient.World_45:PersistentLevel.REINST_RunCharacter_C_10 from world (check level is /Engine/Transient.World_45:PersistentLevel)
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: Stack: 
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x0000000099252786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x0000000098FF123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x000000009900B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x000000008BBBDF86 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x000000008B258C15 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x000000008B25ED63 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x000000008E7FB7B5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x000000008E7FD11D UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x000000008E7BE7DF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x000000008A00187F UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x0000000089FA1704 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x000000008E7C633E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x0000000089FA1133 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x0000000089FF0FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x0000000089FF5D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.04-04.32.56:082][815]LogOutputDevice: Error: [Callstack] 0x0000000090277BBF UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x000000009037D3A2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000902D76D2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000902D8C29 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x0000000090358C25 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x0000000090412B27 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x000000009043EA04 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x0000000090255EFC UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x0000000090228095 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000902C28A7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000902AB092 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x000000009029D902 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000A536E54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000A5361A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000A53703EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000A535D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000C832B85D USER32.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000C832B1EF USER32.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000A5371516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000C8D850C8 UE4Editor.exe!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000C8D95430 UE4Editor.exe!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000C8D954AA UE4Editor.exe!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000C8DA2379 UE4Editor.exe!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000C8DA3D57 UE4Editor.exe!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000C7751FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: [Callstack] 0x00000000C9CDEF91 ntdll.dll!UnknownFunction []
+[2018.03.04-04.32.56:083][815]LogOutputDevice: Error: 
+[2018.03.04-04.32.56:090][815]LogStats:                SubmitErrorReport -  0.000 s
+[2018.03.04-04.32.59:558][815]LogStats:                    SendNewReport -  3.468 s
+[2018.03.04-04.32.59:558][815]LogStats:             FDebug::EnsureFailed -  3.973 s
+[2018.03.04-04.33.05:494][250]LogMaterial: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2018.03.04-04.33.05:538][250]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Tech_Panel.M_Tech_Panel needed to have new flag set bUsedWithSkeletalMesh !
+[2018.03.04-04.33.05:540][250]LogMaterial: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2018.03.04-04.33.12:283][610]BlueprintLog: New page: Compile RunCharacter
+[2018.03.04-04.33.12:385][610]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_45, Actor: /Engine/Transient.World_45:PersistentLevel.REINST_RunCharacter_C_6
+[2018.03.04-04.36.23:690][ 16]LogMaterial: Missing cached shader map for material Boy01_Brows_MAT1, compiling. 
+[2018.03.04-04.36.23:701][ 16]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Boy01_Brows_MAT1.Boy01_Brows_MAT1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.04-04.36.23:701][ 16]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.03.04-04.36.23:704][ 16]LogMaterial: Missing cached shader map for material Boy01_Eyes_MAT1, compiling. 
+[2018.03.04-04.36.23:705][ 16]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Boy01_Eyes_MAT1.Boy01_Eyes_MAT1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.04-04.36.23:705][ 16]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.03.04-04.36.23:708][ 16]LogMaterial: Missing cached shader map for material Boy01_Mouth_MAT1, compiling. 
+[2018.03.04-04.36.23:708][ 16]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Boy01_Mouth_MAT1.Boy01_Mouth_MAT1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.04-04.36.23:708][ 16]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.03.04-04.36.23:712][ 16]LogMaterial: Missing cached shader map for material Boy01_Body_MAT, compiling. 
+[2018.03.04-04.36.23:712][ 16]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Boy01_Body_MAT.Boy01_Body_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.04-04.36.23:712][ 16]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.03.04-04.36.23:715][ 16]LogMaterial: Missing cached shader map for material Boy01_Body_MAT, compiling. 
+[2018.03.04-04.36.23:715][ 16]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Boy01_Body_MAT.Boy01_Body_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.04-04.36.23:715][ 16]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.03.04-04.36.23:717][ 16]LogMaterial: Missing cached shader map for material Boy01_Body_MAT, compiling. 
+[2018.03.04-04.36.23:718][ 16]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Boy01_Body_MAT.Boy01_Body_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.04-04.36.23:718][ 16]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.03.04-04.36.25:858][ 90]LogSavePackage: Save=141.22ms
+[2018.03.04-04.36.25:858][ 90]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/StartScreen6A12ED2049578A3C3789D282B33A2690.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/ThirdPersonBP/Maps/StartScreen.umap'
+[2018.03.04-04.36.25:859][ 90]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/ThirdPersonBP/Maps/StartScreen.umap
+[2018.03.04-04.36.27:267][231]LogSavePackage: Save=140.34ms
+[2018.03.04-04.36.27:267][231]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/StartScreenE9342A4B4A936B6A4D9A7A904EC8405B.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/ThirdPersonBP/Maps/StartScreen.umap'
+[2018.03.04-04.36.27:268][231]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/ThirdPersonBP/Maps/StartScreen.umap
+[2018.03.04-04.36.28:342][335]LogSavePackage: Save=89.42ms
+[2018.03.04-04.36.28:343][335]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/RunCharacter3A6D0DF4488C93DBCFAA66B946DCFDFF.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2018.03.04-04.36.28:344][335]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset
+[2018.03.04-04.36.35:009][701]LogSavePackage: Save=1.83ms
+[2018.03.04-04.36.35:009][701]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/ThirdPerson_IdleRun_2D51204C784078BB2486565882A17F7587.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2018.03.04-04.36.35:010][701]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset
+[2018.03.04-04.36.35:019][701]LogSavePackage: Save=2.95ms
+[2018.03.04-04.36.35:019][701]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/ThirdPerson_JumpD0A8E73042DB04DB5C3D5B8C312BDDC1.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2018.03.04-04.36.35:020][701]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+[2018.03.04-04.36.35:028][701]LogSavePackage: Save=3.00ms
+[2018.03.04-04.36.35:028][701]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/ThirdPersonIdleA63A08154E4A56EA4021C0B56DD17BFA.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Animations/ThirdPersonIdle.uasset'
+[2018.03.04-04.36.35:029][701]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Animations/ThirdPersonIdle.uasset
+[2018.03.04-04.36.35:037][701]LogSavePackage: Save=2.89ms
+[2018.03.04-04.36.35:037][701]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/ThirdPersonJump_LoopF8554D5349633AAC333F00BFFCFDC948.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset'
+[2018.03.04-04.36.35:038][701]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+[2018.03.04-04.36.35:050][701]LogSavePackage: Save=2.88ms
+[2018.03.04-04.36.35:050][701]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/ThirdPersonJump_StartE78069694E991B98BCC84682678C2186.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset'
+[2018.03.04-04.36.35:051][701]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset
+[2018.03.04-04.36.35:059][701]LogSavePackage: Save=2.93ms
+[2018.03.04-04.36.35:059][701]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/ThirdPersonRunCEA4395B4E83BC8223EBAE945926FA5B.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Animations/ThirdPersonRun.uasset'
+[2018.03.04-04.36.35:060][701]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Animations/ThirdPersonRun.uasset
+[2018.03.04-04.36.35:069][701]LogSavePackage: Save=2.98ms
+[2018.03.04-04.36.35:069][701]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/ThirdPersonWalk9DA3FE0A472B52172AD33F9046630B1E.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Animations/ThirdPersonWalk.uasset'
+[2018.03.04-04.36.35:070][701]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Animations/ThirdPersonWalk.uasset
+[2018.03.04-04.36.35:078][701]LogSavePackage: Save=2.05ms
+[2018.03.04-04.36.35:078][701]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/UE4_Mannequin_SkeletonB1DDD9F04D9F29145FF71B957B020EF3.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.03.04-04.36.35:079][701]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2018.03.04-04.36.35:122][701]LogSavePackage: Save=23.35ms
+[2018.03.04-04.36.35:122][701]LogSavePackage: Moving '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/M_Tech_Panel477CE30B4780322B1F02B48E6DF11AE6.tmp' to '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/StarterContent/Materials/M_Tech_Panel.uasset'
+[2018.03.04-04.36.35:123][701]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/StarterContent/Materials/M_Tech_Panel.uasset
+[2018.03.04-04.36.35:201][701]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.04-04.36.35:367][702]Cmd: QUIT_EDITOR
+[2018.03.04-04.36.35:399][702]LogExit: Preparing to exit.
+[2018.03.04-04.36.35:582][702]LogDirectoryWatcher: A directory notification for 'D:/GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/' was aborted.
+[2018.03.04-04.36.35:609][702]LogExit: Editor shut down
+[2018.03.04-04.36.35:614][702]LogExit: Transaction tracking system shut down
+[2018.03.04-04.36.35:819][702]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.04-04.36.35:820][702]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.04-04.36.35:820][702]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.04-04.36.35:820][702]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.04-04.36.35:820][702]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.04-04.36.35:954][702]LogExit: Object subsystem successfully closed.
+[2018.03.04-04.36.35:974][702]LogD3D11RHI: Shutdown
+[2018.03.04-04.36.35:974][702]LogD3D11RHI: CleanupD3DDevice
+[2018.03.04-04.36.35:980][702]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.04-04.36.35:988][702]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (560)
+[2018.03.04-04.36.35:988][702]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (558)
+[2018.03.04-04.36.35:988][702]LogModuleManager: Shutting down and abandoning module TextureEditor (556)
+[2018.03.04-04.36.35:988][702]LogModuleManager: Shutting down and abandoning module FontEditor (554)
+[2018.03.04-04.36.35:989][702]LogModuleManager: Shutting down and abandoning module SequencerWidgets (552)
+[2018.03.04-04.36.35:989][702]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.03.04-04.36.35:989][702]LogModuleManager: Shutting down and abandoning module StatsViewer (548)
+[2018.03.04-04.36.35:989][702]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (546)
+[2018.03.04-04.36.35:989][702]LogModuleManager: Shutting down and abandoning module SceneOutliner (544)
+[2018.03.04-04.36.35:989][702]LogModuleManager: Shutting down and abandoning module AddContentDialog (542)
+[2018.03.04-04.36.35:989][702]LogDirectoryWatcher: A directory notification for 'D:/Unreal Engine/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.04-04.36.35:992][702]LogModuleManager: Shutting down and abandoning module WidgetCarousel (541)
+[2018.03.04-04.36.35:992][702]LogModuleManager: Shutting down and abandoning module EditorWidgets (538)
+[2018.03.04-04.36.35:992][702]LogModuleManager: Shutting down and abandoning module CollectionManager (536)
+[2018.03.04-04.36.35:992][702]LogDirectoryWatcher: A directory notification for 'D:/GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Collections/' was aborted.
+[2018.03.04-04.36.35:992][702]LogDirectoryWatcher: A directory notification for 'D:/GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/Developers/qahzaam/Collections/' was aborted.
+[2018.03.04-04.36.35:992][702]LogDirectoryWatcher: A directory notification for 'D:/GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Saved/Collections/' was aborted.
+[2018.03.04-04.36.35:992][702]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.03.04-04.36.35:992][702]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.03.04-04.36.35:992][702]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.03.04-04.36.35:992][702]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.03.04-04.36.35:992][702]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.03.04-04.36.35:992][702]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.03.04-04.36.35:992][702]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.03.04-04.36.35:992][702]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.03.04-04.36.35:992][702]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.03.04-04.36.35:992][702]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.03.04-04.36.35:992][702]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.03.04-04.36.35:992][702]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.03.04-04.36.35:993][702]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.03.04-04.36.36:554][702]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.03.04-04.36.36:555][702]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.03.04-04.36.36:555][702]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.03.04-04.36.36:555][702]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.03.04-04.36.36:555][702]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.03.04-04.36.36:555][702]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.03.04-04.36.36:555][702]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.03.04-04.36.36:555][702]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.03.04-04.36.36:608][702]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.03.04-04.36.36:608][702]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.03.04-04.36.36:608][702]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.03.04-04.36.36:608][702]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.03.04-04.36.36:608][702]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.03.04-04.36.36:608][702]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.03.04-04.36.36:608][702]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.03.04-04.36.36:608][702]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.03.04-04.36.36:608][702]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.03.04-04.36.36:608][702]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.03.04-04.36.36:617][702]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.03.04-04.36.36:619][702]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.03.04-04.36.36:663][702]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.03.04-04.36.36:664][702]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.03.04-04.36.36:664][702]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.03.04-04.36.36:664][702]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.03.04-04.36.36:664][702]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.03.04-04.36.36:664][702]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.03.04-04.36.36:664][702]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.03.04-04.36.36:665][702]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.03.04-04.36.36:665][702]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.03.04-04.36.36:665][702]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.03.04-04.36.36:665][702]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.03.04-04.36.36:665][702]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.03.04-04.36.36:665][702]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.03.04-04.36.36:665][702]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.03.04-04.36.36:665][702]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.03.04-04.36.36:665][702]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.03.04-04.36.36:665][702]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.03.04-04.36.36:665][702]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.04-04.36.36:765][702]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.04-04.36.36:866][702]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.04-04.36.36:866][702]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.04-04.36.36:866][702]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.04-04.36.36:866][702]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.04-04.36.36:866][702]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.04-04.36.36:866][702]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.04-04.36.36:867][702]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.04-04.36.36:867][702]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.04-04.36.36:867][702]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.04-04.36.36:867][702]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.04-04.36.36:869][702]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.04-04.36.36:869][702]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.04-04.36.36:869][702]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.04-04.36.36:869][702]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.04-04.36.36:869][702]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.04-04.36.36:869][702]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.04-04.36.36:875][702]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.04-04.36.36:875][702]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.04-04.36.36:875][702]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.04-04.36.36:875][702]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.04-04.36.36:875][702]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.04-04.36.36:875][702]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.04-04.36.36:875][702]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.04-04.36.36:875][702]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.04-04.36.36:875][702]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.04-04.36.36:875][702]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.04-04.36.36:875][702]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.04-04.36.36:876][702]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.04-04.36.36:876][702]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.04-04.36.36:876][702]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.04-04.36.36:876][702]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.04-04.36.36:876][702]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.04-04.36.36:878][702]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.04-04.36.36:878][702]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.04-04.36.36:878][702]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.04-04.36.36:878][702]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.04-04.36.36:878][702]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.04-04.36.36:878][702]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.04-04.36.36:878][702]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.04-04.36.36:878][702]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.04-04.36.36:878][702]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.04-04.36.36:878][702]LogDirectoryWatcher: A directory notification for '../../../../../GameDev/_Projects/Unreal/EndlessRunnerGame 4.18/Content/' was aborted.
+[2018.03.04-04.36.36:879][702]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.04-04.36.36:879][702]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.04-04.36.36:879][702]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.04-04.36.36:879][702]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.04-04.36.36:879][702]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.04-04.36.36:879][702]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.04-04.36.36:879][702]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.04-04.36.36:879][702]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.04-04.36.36:879][702]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.04-04.36.36:900][702]LogDerivedDataCache: Shutdown
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.04-04.36.36:900][702]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.04-04.36.36:901][702]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.04-04.36.36:901][702]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.04-04.36.36:901][702]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B60BF23AB-4BA8-D58F-0895-839083F05A1E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=c9fe7d0c48f173df62f62396d90e365a%7Cb7b7c952fed643d4a96294fbcc00256a%7Cc81e1ad3-6c78-46d1-bb7c-ef0fe89a76f0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.04-04.36.36:922][702]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.04-04.36.36:923][702]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.04-04.36.36:923][702]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.04-04.36.36:924][702]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.04-04.36.36:924][702]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.04-04.36.36:924][702]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.04-04.36.36:924][702]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.04-04.36.36:924][702]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.04-04.36.36:926][702]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.04-04.36.36:926][702]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.04-04.36.36:926][702]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.04-04.36.36:926][702]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.04-04.36.36:926][702]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.04-04.36.36:926][702]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.04-04.36.36:926][702]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.04-04.36.36:926][702]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.04-04.36.36:926][702]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.04-04.36.36:926][702]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.04-04.36.36:927][702]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.04-04.36.36:934][702]LogExit: Exiting.
+[2018.03.04-04.36.36:945][702]Log file closed, 03/03/18 23:36:36
